@@ -161,9 +161,11 @@ packages:
   flutter_local_notifications_platform_interface:
     dependency: "direct main"
     description:
-      name: flutter_local_notifications_platform_interface
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: Custom_Repeat_Interval
+      resolved-ref: "78dfbd3d1ee023cd8408247f5e4fa6bd9e85e979"
+      url: "git@github.com:btackney/ensure_flutter_local_notifications_platform_interface.git"
+    source: git
     version: "2.0.0+1"
   flutter_test:
     dependency: "direct dev"
