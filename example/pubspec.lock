@@ -141,7 +141,7 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: Custom_Repeat_Interval
+      ref: "tags/release"
       resolved-ref: "78dfbd3d1ee023cd8408247f5e4fa6bd9e85e979"
       url: "git@github.com:btackney/ensure_flutter_local_notifications_platform_interface.git"
     source: git
